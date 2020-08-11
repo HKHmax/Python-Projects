@@ -1,5 +1,5 @@
 # Python-Projects
-## This file includes all the python projects done by Max Hong Ka Ho and I am going to introduce you with the projects I have done so far: (In chronological order)
+## This file includes all the python projects done by Max Hong Ka Ho and I am going to introduce you with the projects I have done so far: (In chronological order of finishing)
 ## It mainly targets python application to finance especially testing of algorithmic trading strategies, Big Data as well as Data Science projects
 
 1. Predict Future HSI Stock Price Using Facebook Prophet:
