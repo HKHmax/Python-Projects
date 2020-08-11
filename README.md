@@ -1,5 +1,6 @@
 # Python-Projects
 ## This file includes all the python projects done by Max Hong Ka Ho and I am going to introduce you with the projects I have done so far: (In chronological order)
+## It mainly targets python application to finance especially testing of algorithmic trading strategies, Big Data as well as Data Science projects
 
 1. Predict Future HSI Stock Price Using Facebook Prophet:
 
@@ -38,6 +39,7 @@ Simple Moving Average(SMA) is the smoothing price of stock. From all accounts, S
 This is a project with different natures as the above mentioned and it is a big data project. I have customized a program for the users to download youtube videos. Some useful libraries are usen in the program such as pytube and re which assists me to retrive the html code in youtube and download videos. What's worth mentioning is that I have created it to a tailor-made program which has the following functions: 1) Enable users to choose whether they want to download the sound track or video 2) To choose whether they want to download the subtitles 3) Allow the users to choose their own saving directory 4) Enable to download the **whole playlist** but not a single video which saves us lots of time
 
 
-It mainly targets python application to finance especially testing of algorithmic trading strategies 
 People who are interested can feel free to play with the code written by me
-WARNING: IF YOU WANT TO CITE MY CODE TO OTHER WEBSITES, PLEASE LET ME KNOW AND PLEASE PASTE MY ORIGINAL GITHUB LINK ON THAT
+
+
+**WARNING: IF YOU WANT TO CITE MY CODE TO OTHER WEBSITES, PLEASE LET ME KNOW AND PLEASE PASTE MY ORIGINAL GITHUB LINK ON THAT**
