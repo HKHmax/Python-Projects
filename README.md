@@ -42,6 +42,10 @@ This is a project with different natures as the above mentioned and it is a big 
 
 It is a web scraping project which displays the readers how we can effectively retrieve information from a webpage in which this experiment uses WhatsApp stickers webpage. I have shown in detail with pictures on how to analyze the HTML code inside a website to choose the right location with Python code. At first, I start with a particular sticker page and save the stickers in new files which all are done automatically. Then, I make the code more generalized to start with the main page. The program itself will automatically click in a particular stick category and crawl all the stickers in that page + new folder is created for each new page so that we can easily manage the data.
 
+11. Crawl Images From Website With ASPX Structure -- Google Images
+
+This project demonstrates some advanced techniques on how Data Scientists can use Selenium and BeautifulSoup library to mimic a Google Chrome object, and then ask the chrome object to scroll down automatically in order to beat the APSX structure of websites(For what is ASPX, please refer to my project). With this tactics, we can try to crawl all the images from the Google Images engine in a clever way since it is a website which updates its HTML with request and always perceived as a difficult type of website to handle in web-scraping.
+
 
 People who are interested can feel free to play with the code written by me
 
