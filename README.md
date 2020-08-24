@@ -46,6 +46,10 @@ It is a web scraping project which displays the readers how we can effectively r
 
 This project demonstrates some advanced techniques on how Data Scientists can use Selenium and BeautifulSoup library to mimic a Google Chrome object, and then ask the chrome object to scroll down automatically in order to beat the APSX structure of websites(For what is ASPX, please refer to my project). With this tactics, we can try to crawl all the images from the Google Images engine in a clever way since it is a website which updates its HTML with request and always perceived as a difficult type of website to handle in web-scraping.
 
+12. Extract News Articles From Times To Local Excel File
+
+Saving the news articles extensively from a online news website is always perceived as a time-consuming task. To solve this problem, I use TIMES news articles as our testing targets and write a complete program (in exe file) to extract the news articles + compile them into an organized excel file for storage. There are 4 main features in the program: 1) Users can choose the category of news to download according to the TIMES classification (e.g. Economy) 2) Users can specify the pages to download in TIMES web (e.g. 3-5) 3) Users can designate the directory to save all the articles in excel file 4) All the data are real-time crawling and can automatically write in the excel with 4 columns including header, date, author and whole article.
+
 
 People who are interested can feel free to play with the code written by me
 
